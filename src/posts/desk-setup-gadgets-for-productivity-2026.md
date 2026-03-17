@@ -233,7 +233,7 @@ Even small upgrades—like a monitor light bar or cable management system—can 
 >
 > Ideal for professionals who want a fast and efficient workflow.
 >
-> [Check Price on Amazon →](https://www.amazon.com)
+> [Check Price on Amazon →](https://amzn.to/3NFGD16)
 
 ---
 
