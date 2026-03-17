@@ -36,6 +36,7 @@ const App = () => (
         </Routes>
       </BrowserRouter>
       <Analytics />
+      <AmazonOneLink />
     </TooltipProvider>
   </QueryClientProvider>
 );
