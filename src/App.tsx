@@ -13,6 +13,7 @@ import AffiliateDisclosure from "./pages/AffiliateDisclosure";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import NotFound from "./pages/NotFound";
 import { Analytics } from "@vercel/analytics/react";
+import AmazonOneLink from "./components/AmazonOneLink";
 
 const queryClient = new QueryClient();
 
@@ -35,6 +36,7 @@ const App = () => (
         </Routes>
       </BrowserRouter>
       <Analytics />
+      <AmazonOneLink />
     </TooltipProvider>
   </QueryClientProvider>
 );
