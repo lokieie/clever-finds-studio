@@ -291,7 +291,7 @@ The Logitech MX Master 3S is widely considered one of the best **productivity de
 
 The customizable buttons and horizontal scroll wheel help streamline repetitive tasks like editing, browsing, and switching applications.
 
-[Check Price on Amazon →](https://www.amazon.com)
+[Check Price on Amazon →](https://amzn.to/3NFGD16)
 
 ---
 
@@ -316,7 +316,7 @@ A desk shelf helps elevate your monitor and create extra space underneath for ac
 
 By raising your monitor to eye level, it encourages better posture and reduces neck strain.
 
-[Check Price on Amazon →](https://www.amazon.com)
+[Check Price on Amazon →](https://amzn.to/4lApbYu)
 
 ---
 
@@ -341,7 +341,7 @@ Modern setups require multiple ports for drives, keyboards, webcams, and chargin
 
 Quick access to multiple devices prevents workflow interruptions and simplifies desk connectivity.
 
-[Check Price on Amazon →](https://www.amazon.com)
+[Check Price on Amazon →](https://amzn.to/4uy0jVd)
 
 ---
 
@@ -366,7 +366,7 @@ A desk mat acts as the foundation of your setup, protecting your desk while orga
 
 A desk mat creates a defined workspace and keeps everyday items organized and within reach.
 
-[Check Price on Amazon →](https://www.amazon.com)
+[Check Price on Amazon →](https://amzn.to/40FJxWy)
 
 ---
 
@@ -391,7 +391,7 @@ Mechanical keyboards offer a superior typing experience compared to standard key
 
 A satisfying typing experience encourages faster and more accurate typing.
 
-[Check Price on Amazon →](https://www.amazon.com)
+[Check Price on Amazon →](https://amzn.to/4sa55qk)
 
 ---
 
@@ -416,7 +416,7 @@ Laptop stands improve posture and help maintain better screen height alignment.
 
 Better ergonomics reduce fatigue during long work sessions.
 
-[Check Price on Amazon →](https://www.amazon.com)
+[Check Price on Amazon →](https://amzn.to/3Pbp1ut)
 
 ---
 
@@ -441,7 +441,7 @@ The Elgato Stream Deck allows you to automate tasks and create shortcuts for app
 
 You can launch apps, control lighting, start meetings, or automate workflows with a single button.
 
-[Check Price on Amazon →](https://www.amazon.com)
+[Check Price on Amazon →](https://amzn.to/4cO1qK9)
 
 ---
 
@@ -466,7 +466,7 @@ Cable clutter is one of the biggest distractions on any desk. A cable management
 
 A clutter-free desk reduces distractions and creates a more calming workspace.
 
-[Check Price on Amazon →](https://www.amazon.com)
+[Check Price on Amazon →](https://amzn.to/4sMTZaF)
 
 ---
 
@@ -491,7 +491,7 @@ A smart LED light bar provides ambient lighting and customizable color modes.
 
 Ambient lighting improves mood and focus while reducing eye strain during late-night work.
 
-[Check Price on Amazon →](https://www.amazon.com)
+[Check Price on Amazon →](https://amzn.to/4sPOCrm)
 
 ---
 
