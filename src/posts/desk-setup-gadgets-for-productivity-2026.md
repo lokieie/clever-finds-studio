@@ -13,7 +13,7 @@ products:
     rating: 4.7
     price: "$109.00"
     image: "/products/benq-screenbar-monitor-light.png"
-    affiliateUrl: "#"
+    affiliateUrl: "https://amzn.to/4luhHWI"
     pros:
       - "Reduces eye strain during long work sessions"
       - "Auto brightness adjustment"
@@ -27,7 +27,7 @@ products:
     rating: 4.8
     price: "$99.99"
     image: "/products/logitech-mouse.png"
-    affiliateUrl: "#"
+    affiliateUrl: "https://amzn.to/3NFGD16"
     pros:
       - "Highly precise tracking"
       - "Quiet clicks"
@@ -41,7 +41,7 @@ products:
     rating: 4.6
     price: "$160.00"
     image: "/products/wooden-desk.png"
-    affiliateUrl: "#"
+    affiliateUrl: "https://amzn.to/4lApbYu"
     pros:
       - "Premium minimalist design"
       - "Improves monitor ergonomics"
@@ -55,7 +55,7 @@ products:
     rating: 4.7
     price: "$49.99"
     image: "/products/Connector.png"
-    affiliateUrl: "#"
+    affiliateUrl: "https://amzn.to/4uy0jVd"
     pros:
       - "Multiple connectivity options"
       - "Fast data transfer speeds"
@@ -69,7 +69,7 @@ products:
     rating: 4.6
     price: "$79.90"
     image: "/products/desk-mat.png"
-    affiliateUrl: "#"
+    affiliateUrl: "https://amzn.to/40FJxWy"
     pros:
       - "Durable vegan leather material"
       - "Hidden cable management channel"
@@ -83,7 +83,7 @@ products:
     rating: 4.7
     price: "$89.99"
     image: "/products/Keyboard.png"
-    affiliateUrl: "#"
+    affiliateUrl: "https://amzn.to/4sa55qk"
     pros:
       - "Excellent typing experience"
       - "Wireless and wired modes"
@@ -97,7 +97,7 @@ products:
     rating: 4.6
     price: "$59.99"
     image: "/products/Laptop Stand.jpg"
-    affiliateUrl: "#"
+    affiliateUrl: "https://amzn.to/3Pbp1ut"
     pros:
       - "Improves laptop ergonomics"
       - "Stylish aluminum design"
@@ -111,7 +111,7 @@ products:
     rating: 4.8
     price: "$149.99"
     image: "/products/elgato.jpg"
-    affiliateUrl: "#"
+    affiliateUrl: "https://amzn.to/4cO1qK9"
     pros:
       - "Highly customizable buttons"
       - "Automates repetitive tasks"
@@ -125,7 +125,7 @@ products:
     rating: 4.5
     price: "$24.99"
     image: "/products/Cable Manager.jpg"
-    affiliateUrl: "#"
+    affiliateUrl: "https://amzn.to/4sMTZaF"
     pros:
       - "Keeps cables hidden and organized"
       - "Affordable desk upgrade"
@@ -139,7 +139,7 @@ products:
     rating: 4.6
     price: "$39.99"
     image: "/products/RGB Lights.jpg"
-    affiliateUrl: "#"
+    affiliateUrl: "https://amzn.to/4sPOCrm"
     pros:
       - "Adjustable brightness levels"
       - "Multiple lighting modes"
